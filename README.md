@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)]
+![MasterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)
 <h1 align="center">Hi 👋, I'm Gauri Ajgar</h1>
 <h3 align="center">A passionate problem solver from india</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
